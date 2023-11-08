@@ -1,1 +1,1 @@
-# Inverter-design-using-GaN-transistor
+# Project-1: Inverter-design-using-GaN-transistor
